@@ -26,6 +26,3 @@ Timely response
 Improved customer satisfaction 
 Increased efficiency
 Reduced risk
-
-DATA SET - RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
-![image](https://github.com/user-attachments/assets/2c2006a5-5507-4c98-bcbe-d84d7c707968)
