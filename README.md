@@ -13,16 +13,16 @@ Once a critical voicemail is detected, the system will immediately send a target
 ![image](https://github.com/user-attachments/assets/63b46012-bd0e-428b-a338-305426a1724b)
 
 # Tech stack and Libraries
-Python
-Whisper
-Hugging face – Transformers
-Joblib
-Librosa -> MFCC 
-Numpy , Pandas
+Python,
+Whisper,
+Hugging face – Transformers,
+Joblib,
+Librosa -> MFCC ,
+Numpy , Pandas,
 SMTPLib -> Email Services
 
 # Benefits
-Timely response
-Improved customer satisfaction 
-Increased efficiency
+Timely response,
+Improved customer satisfaction ,
+Increased efficiency,
 Reduced risk
