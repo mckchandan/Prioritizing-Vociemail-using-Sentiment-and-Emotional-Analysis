@@ -1,1 +1,6 @@
-# Prioritizing-Vociemail-using-Sentiment-and-Emotional-Analysis
+# Prioritizing Vociemail using Sentiment and Emotional Analysis
+
+In modern communication systems, voicemail serves as a vital tool for leaving messages when direct communication is not possible. However, the conventional method of voicemail prioritization often leads to critical messages being buried under non-urgent ones, potentially causing delays in addressing emergencies. This problem becomes even more pronounced when the volume of voicemails increases, resulting in a backlog that impedes timely response to urgent matters.
+
+The existing voicemail system lacks the capability to differentiate between urgent and non-urgent messages, leading to delays in addressing critical issues. Messages are typically processed in a first-in-first-out (FIFO) manner, meaning that even if an emergency voicemail arrives later, it may remain unattended at the bottom of the queue until all preceding messages are addressed. This delay can have serious consequences, especially in situations where immediate action is required, and another solution is through NLP and Audio signal processing by reading the transcription of the voicemail and then applying algorithms to understand the seriousness of the voicemail and then assign priority. 
+
